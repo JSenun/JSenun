@@ -2,7 +2,7 @@
 
 ### About me 
 
-I'm a Brazilian {Web Development, Front-End} student, searching for knowleges on Programming. I'm praticing to improve my skills on HTML, CSS and JS, and also learning Python to be able to make my own games with Unity. I love solving problems and making things easier!
+I'm a Brazilian {Web Development, Front-End} student, searching for knowleges on Programming. I'm praticing to improve my skills on HTML, CSS and JS, and also learning Python to be able to do automations to help me with daily tasks. I love solving problems and making things easier!
 
 ### Want to Learn
 
