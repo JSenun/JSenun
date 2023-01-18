@@ -2,13 +2,13 @@
 
 ### About me 
 
-I'm a Brazilian {Web Development, Front-End} student, searching for knowleges on Programming. I'm praticing to improve my skills on HTML, CSS and JS, and also learning C# to be able to make my own games with Unity. I love solving problems and making things easier!
+I'm a Brazilian {Web Development, Front-End} student, searching for knowleges on Programming. I'm praticing to improve my skills on HTML, CSS and JS, and also learning Python to be able to make my own games with Unity. I love solving problems and making things easier!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JSenun&theme=vue-dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSenun&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/JSenun/github-readme-stats)
 
 ### Want to Learn
 
-![NodeJs](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg) ![C#](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/csharp.svg) ![React](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg) 
+![NodeJs](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg) ![Python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) ![React](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg) 
 
 ### Languages
 
