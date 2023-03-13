@@ -2,11 +2,11 @@
 
 ### About me 
 
-I'm a Brazilian {Web Development, Front-End} student, searching for knowleges on Programming. I'm praticing to improve my skills on HTML, CSS and JS, and also learning Python to be able to do automations to help me with daily tasks. I love solving problems and making things easier!
+I'm a Brazilian {Data Analysis} student, searching for knowleges on Programming. I'm praticing to improve my skills on Python, and also learning SQL to be able to structure my own databases. I love solving problems and making things easier!
 
 ### Want to Learn
 
-![NodeJs](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/nodejs.svg) ![Python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) ![React](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg) 
+![R](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg) ![Python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) 
 
 ### Languages
 
