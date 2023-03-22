@@ -6,11 +6,11 @@ I'm a Brazilian {Data Analysis} student, searching for knowleges on Programming.
 
 ### Want to Learn
 
-![R](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg) ![Python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) 
+![R](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg) ![Java](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/java.svg) 
 
 ### Languages
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px"> <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="22px"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="26px">
+![Python](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg) 
 
 ### Contact
 
